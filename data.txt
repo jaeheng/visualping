@@ -8356,3 +8356,310 @@ Request timeout for icmp_seq 2357
 64 bytes from 220.181.111.188: icmp_seq=2380 ttl=40 time=13.255 ms
 64 bytes from 220.181.111.188: icmp_seq=2381 ttl=40 time=15.595 ms
 64 bytes from 220.181.111.188: icmp_seq=2382 ttl=40 time=16.787 ms
+64 bytes from 220.181.111.188: icmp_seq=2383 ttl=41 time=13.611 ms
+64 bytes from 220.181.111.188: icmp_seq=2384 ttl=40 time=31.540 ms
+Request timeout for icmp_seq 2385
+64 bytes from 220.181.111.188: icmp_seq=2386 ttl=40 time=22.661 ms
+64 bytes from 220.181.111.188: icmp_seq=2387 ttl=40 time=12.287 ms
+64 bytes from 220.181.111.188: icmp_seq=2388 ttl=40 time=14.381 ms
+64 bytes from 220.181.111.188: icmp_seq=2389 ttl=40 time=11.431 ms
+64 bytes from 220.181.111.188: icmp_seq=2390 ttl=40 time=10.093 ms
+64 bytes from 220.181.111.188: icmp_seq=2391 ttl=40 time=13.873 ms
+64 bytes from 220.181.111.188: icmp_seq=2392 ttl=40 time=15.212 ms
+64 bytes from 220.181.111.188: icmp_seq=2393 ttl=41 time=12.427 ms
+64 bytes from 220.181.111.188: icmp_seq=2394 ttl=40 time=10.691 ms
+64 bytes from 220.181.111.188: icmp_seq=2395 ttl=40 time=10.606 ms
+Request timeout for icmp_seq 2396
+64 bytes from 220.181.111.188: icmp_seq=2397 ttl=40 time=15.987 ms
+64 bytes from 220.181.111.188: icmp_seq=2398 ttl=41 time=16.821 ms
+64 bytes from 220.181.111.188: icmp_seq=2399 ttl=41 time=12.676 ms
+64 bytes from 220.181.111.188: icmp_seq=2400 ttl=40 time=10.565 ms
+64 bytes from 220.181.111.188: icmp_seq=2401 ttl=40 time=13.855 ms
+64 bytes from 220.181.111.188: icmp_seq=2402 ttl=40 time=15.698 ms
+64 bytes from 220.181.111.188: icmp_seq=2403 ttl=40 time=16.787 ms
+64 bytes from 220.181.111.188: icmp_seq=2404 ttl=41 time=13.731 ms
+Request timeout for icmp_seq 2405
+64 bytes from 220.181.111.188: icmp_seq=2406 ttl=40 time=10.607 ms
+64 bytes from 220.181.111.188: icmp_seq=2407 ttl=40 time=11.123 ms
+64 bytes from 220.181.111.188: icmp_seq=2408 ttl=40 time=12.873 ms
+64 bytes from 220.181.111.188: icmp_seq=2409 ttl=41 time=10.510 ms
+Request timeout for icmp_seq 2410
+64 bytes from 220.181.111.188: icmp_seq=2411 ttl=41 time=10.592 ms
+64 bytes from 220.181.111.188: icmp_seq=2412 ttl=40 time=13.517 ms
+64 bytes from 220.181.111.188: icmp_seq=2413 ttl=41 time=15.101 ms
+64 bytes from 220.181.111.188: icmp_seq=2414 ttl=40 time=12.725 ms
+64 bytes from 220.181.111.188: icmp_seq=2415 ttl=41 time=16.896 ms
+64 bytes from 220.181.111.188: icmp_seq=2416 ttl=40 time=13.809 ms
+64 bytes from 220.181.111.188: icmp_seq=2417 ttl=40 time=11.226 ms
+64 bytes from 220.181.111.188: icmp_seq=2418 ttl=41 time=12.632 ms
+64 bytes from 220.181.111.188: icmp_seq=2419 ttl=40 time=29.833 ms
+64 bytes from 220.181.111.188: icmp_seq=2420 ttl=40 time=12.169 ms
+64 bytes from 220.181.111.188: icmp_seq=2421 ttl=40 time=11.910 ms
+64 bytes from 220.181.111.188: icmp_seq=2422 ttl=41 time=12.870 ms
+64 bytes from 220.181.111.188: icmp_seq=2423 ttl=40 time=11.572 ms
+64 bytes from 220.181.111.188: icmp_seq=2424 ttl=41 time=11.394 ms
+64 bytes from 220.181.111.188: icmp_seq=2425 ttl=40 time=23.334 ms
+64 bytes from 220.181.111.188: icmp_seq=2426 ttl=41 time=14.398 ms
+64 bytes from 220.181.111.188: icmp_seq=2427 ttl=40 time=13.743 ms
+64 bytes from 220.181.111.188: icmp_seq=2428 ttl=40 time=10.063 ms
+Request timeout for icmp_seq 2429
+64 bytes from 220.181.111.188: icmp_seq=2430 ttl=40 time=9.902 ms
+64 bytes from 220.181.111.188: icmp_seq=2431 ttl=40 time=20.527 ms
+64 bytes from 220.181.111.188: icmp_seq=2432 ttl=40 time=9.525 ms
+64 bytes from 220.181.111.188: icmp_seq=2433 ttl=40 time=13.315 ms
+64 bytes from 220.181.111.188: icmp_seq=2434 ttl=40 time=10.577 ms
+64 bytes from 220.181.111.188: icmp_seq=2435 ttl=40 time=12.569 ms
+Request timeout for icmp_seq 2436
+64 bytes from 220.181.111.188: icmp_seq=2437 ttl=40 time=17.163 ms
+Request timeout for icmp_seq 2438
+64 bytes from 220.181.111.188: icmp_seq=2439 ttl=41 time=12.117 ms
+Request timeout for icmp_seq 2440
+64 bytes from 220.181.111.188: icmp_seq=2441 ttl=41 time=16.969 ms
+Request timeout for icmp_seq 2442
+64 bytes from 220.181.111.188: icmp_seq=2443 ttl=40 time=11.342 ms
+64 bytes from 220.181.111.188: icmp_seq=2444 ttl=41 time=11.996 ms
+64 bytes from 220.181.111.188: icmp_seq=2445 ttl=41 time=10.631 ms
+64 bytes from 220.181.111.188: icmp_seq=2446 ttl=40 time=16.237 ms
+64 bytes from 220.181.111.188: icmp_seq=2447 ttl=41 time=13.382 ms
+64 bytes from 220.181.111.188: icmp_seq=2448 ttl=40 time=10.395 ms
+Request timeout for icmp_seq 2449
+64 bytes from 220.181.111.188: icmp_seq=2450 ttl=40 time=13.143 ms
+64 bytes from 220.181.111.188: icmp_seq=2451 ttl=40 time=65.745 ms
+64 bytes from 220.181.111.188: icmp_seq=2452 ttl=40 time=12.645 ms
+64 bytes from 220.181.111.188: icmp_seq=2453 ttl=40 time=9.536 ms
+64 bytes from 220.181.111.188: icmp_seq=2454 ttl=40 time=14.370 ms
+64 bytes from 220.181.111.188: icmp_seq=2455 ttl=40 time=12.771 ms
+64 bytes from 220.181.111.188: icmp_seq=2456 ttl=41 time=10.181 ms
+64 bytes from 220.181.111.188: icmp_seq=2457 ttl=40 time=16.022 ms
+64 bytes from 220.181.111.188: icmp_seq=2458 ttl=41 time=10.227 ms
+64 bytes from 220.181.111.188: icmp_seq=2459 ttl=41 time=11.660 ms
+Request timeout for icmp_seq 2460
+64 bytes from 220.181.111.188: icmp_seq=2461 ttl=41 time=17.376 ms
+64 bytes from 220.181.111.188: icmp_seq=2462 ttl=40 time=10.288 ms
+64 bytes from 220.181.111.188: icmp_seq=2463 ttl=40 time=10.931 ms
+Request timeout for icmp_seq 2464
+64 bytes from 220.181.111.188: icmp_seq=2465 ttl=41 time=14.563 ms
+64 bytes from 220.181.111.188: icmp_seq=2466 ttl=40 time=15.279 ms
+64 bytes from 220.181.111.188: icmp_seq=2467 ttl=41 time=49.827 ms
+64 bytes from 220.181.111.188: icmp_seq=2468 ttl=41 time=16.202 ms
+Request timeout for icmp_seq 2469
+64 bytes from 220.181.111.188: icmp_seq=2470 ttl=40 time=54.884 ms
+Request timeout for icmp_seq 2471
+64 bytes from 220.181.111.188: icmp_seq=2472 ttl=41 time=9.392 ms
+64 bytes from 220.181.111.188: icmp_seq=2473 ttl=41 time=29.582 ms
+Request timeout for icmp_seq 2474
+64 bytes from 220.181.111.188: icmp_seq=2475 ttl=40 time=12.706 ms
+64 bytes from 220.181.111.188: icmp_seq=2476 ttl=40 time=40.978 ms
+64 bytes from 220.181.111.188: icmp_seq=2477 ttl=41 time=11.567 ms
+64 bytes from 220.181.111.188: icmp_seq=2478 ttl=41 time=13.911 ms
+64 bytes from 220.181.111.188: icmp_seq=2479 ttl=40 time=30.822 ms
+Request timeout for icmp_seq 2480
+64 bytes from 220.181.111.188: icmp_seq=2481 ttl=41 time=14.576 ms
+64 bytes from 220.181.111.188: icmp_seq=2482 ttl=40 time=26.228 ms
+64 bytes from 220.181.111.188: icmp_seq=2483 ttl=40 time=14.030 ms
+64 bytes from 220.181.111.188: icmp_seq=2484 ttl=40 time=13.855 ms
+64 bytes from 220.181.111.188: icmp_seq=2485 ttl=40 time=21.604 ms
+64 bytes from 220.181.111.188: icmp_seq=2486 ttl=40 time=26.129 ms
+64 bytes from 220.181.111.188: icmp_seq=2487 ttl=40 time=13.526 ms
+64 bytes from 220.181.111.188: icmp_seq=2488 ttl=41 time=17.639 ms
+64 bytes from 220.181.111.188: icmp_seq=2489 ttl=40 time=15.089 ms
+64 bytes from 220.181.111.188: icmp_seq=2490 ttl=41 time=14.844 ms
+64 bytes from 220.181.111.188: icmp_seq=2491 ttl=40 time=17.964 ms
+64 bytes from 220.181.111.188: icmp_seq=2492 ttl=40 time=14.317 ms
+64 bytes from 220.181.111.188: icmp_seq=2493 ttl=41 time=14.918 ms
+Request timeout for icmp_seq 2494
+Request timeout for icmp_seq 2495
+Request timeout for icmp_seq 2496
+64 bytes from 220.181.111.188: icmp_seq=2497 ttl=40 time=11.245 ms
+64 bytes from 220.181.111.188: icmp_seq=2498 ttl=40 time=13.742 ms
+64 bytes from 220.181.111.188: icmp_seq=2499 ttl=40 time=40.719 ms
+64 bytes from 220.181.111.188: icmp_seq=2500 ttl=40 time=51.721 ms
+Request timeout for icmp_seq 2501
+Request timeout for icmp_seq 2502
+64 bytes from 220.181.111.188: icmp_seq=2503 ttl=41 time=25.362 ms
+64 bytes from 220.181.111.188: icmp_seq=2504 ttl=40 time=10.332 ms
+64 bytes from 220.181.111.188: icmp_seq=2505 ttl=40 time=13.788 ms
+64 bytes from 220.181.111.188: icmp_seq=2506 ttl=40 time=15.634 ms
+64 bytes from 220.181.111.188: icmp_seq=2507 ttl=41 time=11.093 ms
+64 bytes from 220.181.111.188: icmp_seq=2508 ttl=41 time=19.628 ms
+64 bytes from 220.181.111.188: icmp_seq=2509 ttl=40 time=13.216 ms
+64 bytes from 220.181.111.188: icmp_seq=2510 ttl=41 time=19.584 ms
+64 bytes from 220.181.111.188: icmp_seq=2511 ttl=41 time=13.219 ms
+64 bytes from 220.181.111.188: icmp_seq=2512 ttl=40 time=39.340 ms
+64 bytes from 220.181.111.188: icmp_seq=2513 ttl=40 time=15.184 ms
+64 bytes from 220.181.111.188: icmp_seq=2514 ttl=40 time=12.787 ms
+Request timeout for icmp_seq 2515
+64 bytes from 220.181.111.188: icmp_seq=2516 ttl=40 time=14.638 ms
+Request timeout for icmp_seq 2517
+64 bytes from 220.181.111.188: icmp_seq=2518 ttl=40 time=15.250 ms
+64 bytes from 220.181.111.188: icmp_seq=2519 ttl=40 time=11.784 ms
+64 bytes from 220.181.111.188: icmp_seq=2520 ttl=40 time=13.425 ms
+Request timeout for icmp_seq 2521
+64 bytes from 220.181.111.188: icmp_seq=2522 ttl=40 time=14.167 ms
+64 bytes from 220.181.111.188: icmp_seq=2523 ttl=40 time=11.300 ms
+64 bytes from 220.181.111.188: icmp_seq=2524 ttl=41 time=18.595 ms
+64 bytes from 220.181.111.188: icmp_seq=2525 ttl=40 time=49.899 ms
+64 bytes from 220.181.111.188: icmp_seq=2526 ttl=40 time=14.471 ms
+64 bytes from 220.181.111.188: icmp_seq=2527 ttl=40 time=11.645 ms
+Request timeout for icmp_seq 2528
+64 bytes from 220.181.111.188: icmp_seq=2529 ttl=40 time=18.657 ms
+64 bytes from 220.181.111.188: icmp_seq=2530 ttl=41 time=10.885 ms
+Request timeout for icmp_seq 2531
+64 bytes from 220.181.111.188: icmp_seq=2532 ttl=41 time=14.188 ms
+64 bytes from 220.181.111.188: icmp_seq=2533 ttl=40 time=13.822 ms
+Request timeout for icmp_seq 2534
+64 bytes from 220.181.111.188: icmp_seq=2535 ttl=40 time=12.774 ms
+64 bytes from 220.181.111.188: icmp_seq=2536 ttl=40 time=14.792 ms
+64 bytes from 220.181.111.188: icmp_seq=2537 ttl=41 time=13.817 ms
+64 bytes from 220.181.111.188: icmp_seq=2538 ttl=40 time=16.810 ms
+64 bytes from 220.181.111.188: icmp_seq=2539 ttl=40 time=22.395 ms
+64 bytes from 220.181.111.188: icmp_seq=2540 ttl=41 time=12.394 ms
+Request timeout for icmp_seq 2541
+64 bytes from 220.181.111.188: icmp_seq=2542 ttl=40 time=20.891 ms
+64 bytes from 220.181.111.188: icmp_seq=2543 ttl=41 time=12.893 ms
+64 bytes from 220.181.111.188: icmp_seq=2544 ttl=41 time=11.116 ms
+64 bytes from 220.181.111.188: icmp_seq=2545 ttl=40 time=13.032 ms
+64 bytes from 220.181.111.188: icmp_seq=2546 ttl=40 time=11.084 ms
+64 bytes from 220.181.111.188: icmp_seq=2547 ttl=40 time=8.972 ms
+64 bytes from 220.181.111.188: icmp_seq=2548 ttl=41 time=10.185 ms
+64 bytes from 220.181.111.188: icmp_seq=2549 ttl=41 time=13.272 ms
+Request timeout for icmp_seq 2550
+64 bytes from 220.181.111.188: icmp_seq=2551 ttl=40 time=12.899 ms
+Request timeout for icmp_seq 2552
+64 bytes from 220.181.111.188: icmp_seq=2553 ttl=40 time=13.879 ms
+64 bytes from 220.181.111.188: icmp_seq=2554 ttl=40 time=11.981 ms
+64 bytes from 220.181.111.188: icmp_seq=2555 ttl=40 time=12.337 ms
+64 bytes from 220.181.111.188: icmp_seq=2556 ttl=40 time=44.562 ms
+64 bytes from 220.181.111.188: icmp_seq=2557 ttl=40 time=15.077 ms
+64 bytes from 220.181.111.188: icmp_seq=2558 ttl=41 time=10.480 ms
+Request timeout for icmp_seq 2559
+64 bytes from 220.181.111.188: icmp_seq=2560 ttl=41 time=13.974 ms
+64 bytes from 220.181.111.188: icmp_seq=2561 ttl=41 time=10.722 ms
+64 bytes from 220.181.111.188: icmp_seq=2562 ttl=40 time=12.560 ms
+64 bytes from 220.181.111.188: icmp_seq=2563 ttl=40 time=12.720 ms
+64 bytes from 220.181.111.188: icmp_seq=2564 ttl=40 time=13.014 ms
+64 bytes from 220.181.111.188: icmp_seq=2565 ttl=40 time=12.232 ms
+64 bytes from 220.181.111.188: icmp_seq=2566 ttl=41 time=9.984 ms
+64 bytes from 220.181.111.188: icmp_seq=2567 ttl=41 time=12.504 ms
+64 bytes from 220.181.111.188: icmp_seq=2568 ttl=40 time=12.331 ms
+64 bytes from 220.181.111.188: icmp_seq=2569 ttl=40 time=16.756 ms
+64 bytes from 220.181.111.188: icmp_seq=2570 ttl=40 time=11.997 ms
+Request timeout for icmp_seq 2571
+64 bytes from 220.181.111.188: icmp_seq=2572 ttl=40 time=11.358 ms
+64 bytes from 220.181.111.188: icmp_seq=2573 ttl=40 time=13.223 ms
+64 bytes from 220.181.111.188: icmp_seq=2574 ttl=41 time=26.500 ms
+64 bytes from 220.181.111.188: icmp_seq=2575 ttl=41 time=14.127 ms
+Request timeout for icmp_seq 2576
+64 bytes from 220.181.111.188: icmp_seq=2577 ttl=40 time=20.507 ms
+Request timeout for icmp_seq 2578
+Request timeout for icmp_seq 2579
+64 bytes from 220.181.111.188: icmp_seq=2580 ttl=40 time=11.415 ms
+64 bytes from 220.181.111.188: icmp_seq=2581 ttl=40 time=15.530 ms
+64 bytes from 220.181.111.188: icmp_seq=2582 ttl=40 time=13.913 ms
+64 bytes from 220.181.111.188: icmp_seq=2583 ttl=40 time=37.955 ms
+64 bytes from 220.181.111.188: icmp_seq=2584 ttl=41 time=15.057 ms
+64 bytes from 220.181.111.188: icmp_seq=2585 ttl=41 time=12.502 ms
+64 bytes from 220.181.111.188: icmp_seq=2586 ttl=40 time=39.973 ms
+64 bytes from 220.181.111.188: icmp_seq=2587 ttl=41 time=14.060 ms
+64 bytes from 220.181.111.188: icmp_seq=2588 ttl=40 time=18.087 ms
+64 bytes from 220.181.111.188: icmp_seq=2589 ttl=41 time=31.651 ms
+64 bytes from 220.181.111.188: icmp_seq=2590 ttl=40 time=18.434 ms
+64 bytes from 220.181.111.188: icmp_seq=2591 ttl=41 time=13.684 ms
+64 bytes from 220.181.111.188: icmp_seq=2592 ttl=41 time=31.912 ms
+64 bytes from 220.181.111.188: icmp_seq=2593 ttl=41 time=16.095 ms
+64 bytes from 220.181.111.188: icmp_seq=2594 ttl=41 time=13.293 ms
+64 bytes from 220.181.111.188: icmp_seq=2595 ttl=40 time=25.616 ms
+64 bytes from 220.181.111.188: icmp_seq=2596 ttl=40 time=15.300 ms
+64 bytes from 220.181.111.188: icmp_seq=2597 ttl=41 time=13.268 ms
+Request timeout for icmp_seq 2598
+Request timeout for icmp_seq 2599
+64 bytes from 220.181.111.188: icmp_seq=2600 ttl=40 time=15.550 ms
+64 bytes from 220.181.111.188: icmp_seq=2601 ttl=40 time=18.596 ms
+64 bytes from 220.181.111.188: icmp_seq=2602 ttl=41 time=12.337 ms
+64 bytes from 220.181.111.188: icmp_seq=2603 ttl=40 time=11.707 ms
+64 bytes from 220.181.111.188: icmp_seq=2604 ttl=40 time=18.911 ms
+64 bytes from 220.181.111.188: icmp_seq=2605 ttl=41 time=11.914 ms
+64 bytes from 220.181.111.188: icmp_seq=2606 ttl=40 time=10.798 ms
+64 bytes from 220.181.111.188: icmp_seq=2607 ttl=41 time=16.240 ms
+64 bytes from 220.181.111.188: icmp_seq=2608 ttl=41 time=12.761 ms
+Request timeout for icmp_seq 2609
+64 bytes from 220.181.111.188: icmp_seq=2610 ttl=41 time=19.584 ms
+64 bytes from 220.181.111.188: icmp_seq=2611 ttl=40 time=26.992 ms
+64 bytes from 220.181.111.188: icmp_seq=2612 ttl=40 time=14.569 ms
+64 bytes from 220.181.111.188: icmp_seq=2613 ttl=40 time=32.926 ms
+64 bytes from 220.181.111.188: icmp_seq=2614 ttl=40 time=14.925 ms
+64 bytes from 220.181.111.188: icmp_seq=2615 ttl=40 time=10.887 ms
+Request timeout for icmp_seq 2616
+64 bytes from 220.181.111.188: icmp_seq=2617 ttl=40 time=10.523 ms
+64 bytes from 220.181.111.188: icmp_seq=2618 ttl=40 time=16.207 ms
+64 bytes from 220.181.111.188: icmp_seq=2619 ttl=41 time=19.952 ms
+64 bytes from 220.181.111.188: icmp_seq=2620 ttl=41 time=12.628 ms
+64 bytes from 220.181.111.188: icmp_seq=2621 ttl=40 time=47.861 ms
+64 bytes from 220.181.111.188: icmp_seq=2622 ttl=41 time=14.227 ms
+64 bytes from 220.181.111.188: icmp_seq=2623 ttl=40 time=10.148 ms
+64 bytes from 220.181.111.188: icmp_seq=2624 ttl=40 time=11.100 ms
+64 bytes from 220.181.111.188: icmp_seq=2625 ttl=41 time=17.525 ms
+64 bytes from 220.181.111.188: icmp_seq=2626 ttl=40 time=13.181 ms
+64 bytes from 220.181.111.188: icmp_seq=2627 ttl=41 time=13.003 ms
+64 bytes from 220.181.111.188: icmp_seq=2628 ttl=40 time=12.766 ms
+Request timeout for icmp_seq 2629
+64 bytes from 220.181.111.188: icmp_seq=2630 ttl=40 time=15.433 ms
+64 bytes from 220.181.111.188: icmp_seq=2631 ttl=41 time=13.784 ms
+64 bytes from 220.181.111.188: icmp_seq=2632 ttl=41 time=12.971 ms
+64 bytes from 220.181.111.188: icmp_seq=2633 ttl=40 time=15.796 ms
+64 bytes from 220.181.111.188: icmp_seq=2634 ttl=40 time=10.088 ms
+Request timeout for icmp_seq 2635
+64 bytes from 220.181.111.188: icmp_seq=2636 ttl=40 time=12.261 ms
+64 bytes from 220.181.111.188: icmp_seq=2637 ttl=41 time=12.751 ms
+64 bytes from 220.181.111.188: icmp_seq=2638 ttl=40 time=12.446 ms
+64 bytes from 220.181.111.188: icmp_seq=2639 ttl=41 time=15.617 ms
+64 bytes from 220.181.111.188: icmp_seq=2640 ttl=41 time=11.603 ms
+Request timeout for icmp_seq 2641
+64 bytes from 220.181.111.188: icmp_seq=2642 ttl=40 time=12.429 ms
+64 bytes from 220.181.111.188: icmp_seq=2643 ttl=40 time=14.991 ms
+64 bytes from 220.181.111.188: icmp_seq=2644 ttl=40 time=13.010 ms
+64 bytes from 220.181.111.188: icmp_seq=2645 ttl=40 time=21.530 ms
+Request timeout for icmp_seq 2646
+64 bytes from 220.181.111.188: icmp_seq=2647 ttl=40 time=13.719 ms
+Request timeout for icmp_seq 2648
+Request timeout for icmp_seq 2649
+64 bytes from 220.181.111.188: icmp_seq=2650 ttl=41 time=15.117 ms
+64 bytes from 220.181.111.188: icmp_seq=2651 ttl=40 time=12.812 ms
+Request timeout for icmp_seq 2652
+64 bytes from 220.181.111.188: icmp_seq=2653 ttl=41 time=13.971 ms
+64 bytes from 220.181.111.188: icmp_seq=2654 ttl=40 time=12.055 ms
+64 bytes from 220.181.111.188: icmp_seq=2655 ttl=40 time=25.932 ms
+64 bytes from 220.181.111.188: icmp_seq=2656 ttl=40 time=14.575 ms
+Request timeout for icmp_seq 2657
+64 bytes from 220.181.111.188: icmp_seq=2658 ttl=41 time=10.951 ms
+Request timeout for icmp_seq 2659
+64 bytes from 220.181.111.188: icmp_seq=2660 ttl=41 time=24.276 ms
+64 bytes from 220.181.111.188: icmp_seq=2661 ttl=40 time=14.258 ms
+64 bytes from 220.181.111.188: icmp_seq=2662 ttl=41 time=13.804 ms
+64 bytes from 220.181.111.188: icmp_seq=2663 ttl=40 time=13.971 ms
+Request timeout for icmp_seq 2664
+64 bytes from 220.181.111.188: icmp_seq=2665 ttl=40 time=15.424 ms
+64 bytes from 220.181.111.188: icmp_seq=2666 ttl=41 time=11.451 ms
+64 bytes from 220.181.111.188: icmp_seq=2667 ttl=40 time=13.874 ms
+Request timeout for icmp_seq 2668
+64 bytes from 220.181.111.188: icmp_seq=2669 ttl=40 time=14.267 ms
+64 bytes from 220.181.111.188: icmp_seq=2670 ttl=41 time=26.438 ms
+64 bytes from 220.181.111.188: icmp_seq=2671 ttl=40 time=12.468 ms
+Request timeout for icmp_seq 2672
+64 bytes from 220.181.111.188: icmp_seq=2673 ttl=40 time=15.218 ms
+Request timeout for icmp_seq 2674
+64 bytes from 220.181.111.188: icmp_seq=2675 ttl=41 time=10.299 ms
+64 bytes from 220.181.111.188: icmp_seq=2676 ttl=41 time=11.476 ms
+64 bytes from 220.181.111.188: icmp_seq=2677 ttl=40 time=10.707 ms
+64 bytes from 220.181.111.188: icmp_seq=2678 ttl=41 time=10.012 ms
+64 bytes from 220.181.111.188: icmp_seq=2679 ttl=40 time=11.429 ms
+64 bytes from 220.181.111.188: icmp_seq=2680 ttl=40 time=10.052 ms
+64 bytes from 220.181.111.188: icmp_seq=2681 ttl=40 time=15.117 ms
+64 bytes from 220.181.111.188: icmp_seq=2682 ttl=41 time=12.574 ms
+64 bytes from 220.181.111.188: icmp_seq=2683 ttl=40 time=11.771 ms
+64 bytes from 220.181.111.188: icmp_seq=2684 ttl=40 time=14.112 ms
+64 bytes from 220.181.111.188: icmp_seq=2685 ttl=40 time=11.807 ms
+
+--- www.baidu.com ping statistics ---
+2686 packets transmitted, 2170 packets received, 19.2% packet loss
+round-trip min/avg/max/stddev = 8.972/41.967/4686.615/219.696 ms

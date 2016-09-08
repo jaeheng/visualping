@@ -7,7 +7,7 @@
 首先使用以下命令，进行对某个网站的ping操作
 
 ```shell
-    > ping www.baidu.com >> data.txt
+ping www.baidu.com >> data.txt
 ```
 
 ## 启动server
@@ -15,7 +15,7 @@
 因为页面使用了ajax, 所以需要一个server; 我这里使用的是http-server
 
 ```shell
-    > http-server -p3000 -o
+http-server -p3000 -o
 ```
 
 ## 打开页面，输入你刚才ping的网站域名
